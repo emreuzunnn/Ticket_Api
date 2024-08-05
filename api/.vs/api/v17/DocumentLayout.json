@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\uzun3\\source\\repos\\api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85256B-4D98-469A-82EA-58F8059448C9}|api\\api.csproj|c:\\users\\uzun3\\source\\repos\\api\\api\\controllers\\people_cards_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB85256B-4D98-469A-82EA-58F8059448C9}|api\\api.csproj|solutionrelative:api\\controllers\\people_cards_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85256B-4D98-469A-82EA-58F8059448C9}|api\\api.csproj|c:\\users\\uzun3\\source\\repos\\api\\api\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB85256B-4D98-469A-82EA-58F8059448C9}|api\\api.csproj|solutionrelative:api\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85256B-4D98-469A-82EA-58F8059448C9}|api\\api.csproj|c:\\users\\uzun3\\source\\repos\\api\\api\\controllers\\peoplecardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB85256B-4D98-469A-82EA-58F8059448C9}|api\\api.csproj|solutionrelative:api\\controllers\\peoplecardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85256B-4D98-469A-82EA-58F8059448C9}|api\\api.csproj|c:\\users\\uzun3\\source\\repos\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB85256B-4D98-469A-82EA-58F8059448C9}|api\\api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85256B-4D98-469A-82EA-58F8059448C9}|api\\api.csproj|c:\\users\\uzun3\\source\\repos\\api\\api\\models\\peoplecards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB85256B-4D98-469A-82EA-58F8059448C9}|api\\api.csproj|solutionrelative:api\\models\\peoplecards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85256B-4D98-469A-82EA-58F8059448C9}|api\\api.csproj|c:\\users\\uzun3\\source\\repos\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB85256B-4D98-469A-82EA-58F8059448C9}|api\\api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB85256B-4D98-469A-82EA-58F8059448C9}|api\\api.csproj|c:\\users\\uzun3\\source\\repos\\api\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EB85256B-4D98-469A-82EA-58F8059448C9}|api\\api.csproj|solutionrelative:api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "peoplecards.cs",
+              "DocumentMoniker": "C:\\Users\\uzun3\\source\\repos\\api\\api\\Models\\peoplecards.cs",
+              "RelativeDocumentMoniker": "api\\Models\\peoplecards.cs",
+              "ToolTip": "C:\\Users\\uzun3\\source\\repos\\api\\api\\Models\\peoplecards.cs",
+              "RelativeToolTip": "api\\Models\\peoplecards.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:24:23.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "databaseController.cs",
+              "DocumentMoniker": "C:\\Users\\uzun3\\source\\repos\\api\\api\\Controllers\\databaseController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\databaseController.cs",
+              "ToolTip": "C:\\Users\\uzun3\\source\\repos\\api\\api\\Controllers\\databaseController.cs",
+              "RelativeToolTip": "api\\Controllers\\databaseController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAEwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:17:52.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\uzun3\\source\\repos\\api\\api\\appsettings.json",
+              "RelativeDocumentMoniker": "api\\appsettings.json",
+              "ToolTip": "C:\\Users\\uzun3\\source\\repos\\api\\api\\appsettings.json",
+              "RelativeToolTip": "api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-26T11:55:06.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "api.http",
+              "DocumentMoniker": "C:\\Users\\uzun3\\source\\repos\\api\\api\\api.http",
+              "RelativeDocumentMoniker": "api\\api.http",
+              "ToolTip": "C:\\Users\\uzun3\\source\\repos\\api\\api\\api.http",
+              "RelativeToolTip": "api\\api.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-26T11:54:43.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\uzun3\\source\\repos\\api\\api\\Program.cs",
+              "RelativeDocumentMoniker": "api\\Program.cs",
+              "ToolTip": "C:\\Users\\uzun3\\source\\repos\\api\\api\\Program.cs",
+              "RelativeToolTip": "api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T11:54:33.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "people_cards_add.cs",
+              "DocumentMoniker": "C:\\Users\\uzun3\\source\\repos\\api\\api\\Controllers\\people_cards_add.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\people_cards_add.cs",
+              "ToolTip": "C:\\Users\\uzun3\\source\\repos\\api\\api\\Controllers\\people_cards_add.cs",
+              "RelativeToolTip": "api\\Controllers\\people_cards_add.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:26:29.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "peoplecardsController.cs",
+              "DocumentMoniker": "C:\\Users\\uzun3\\source\\repos\\api\\api\\Controllers\\peoplecardsController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\peoplecardsController.cs",
+              "ToolTip": "C:\\Users\\uzun3\\source\\repos\\api\\api\\Controllers\\peoplecardsController.cs",
+              "RelativeToolTip": "api\\Controllers\\peoplecardsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:55:26.676Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
